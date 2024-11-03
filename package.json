@@ -1,0 +1,14 @@
+{
+  "name": "operatingsystem",
+  "version": "1.0.0",
+  "description": "An Operating System that will serve as a portfolio for my coding ability",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikkoguinto99/OperatingSystem"
+  },
+  "author": "Nicholas Guinto",
+  "license": "MIT"
+}
